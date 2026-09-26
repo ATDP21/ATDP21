@@ -48,7 +48,7 @@
  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,cloudflare,figma,tailwind,github,postman"/>
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,cloudflare,figma,docker,tailwind,github,postman"/>
   </a>
 </p>
 
